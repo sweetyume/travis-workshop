@@ -1,0 +1,25 @@
+{
+  "name": "travis-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kata.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetyume/travis-workshop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sweetyume/travis-workshop/issues"
+  },
+  "homepage": "https://github.com/sweetyume/travis-workshop#readme",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
